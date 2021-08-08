@@ -1,0 +1,11 @@
+- by: xpath
+  locator: '//*[contains(@text,''姓名'')]/../*[contains(@text,''必填'')]'
+  action: sendkeys
+  value: '12abc51'
+- by: xpath
+  locator: '//*[contains(@text,''手机'')]/..//*[contains(@text,''必填'')]'
+  action: sendkeys
+  value: '13621270120'
+- by: xpath
+  locator: '//*[@text=''保存'']'
+  action: click

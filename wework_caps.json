@@ -1,0 +1,10 @@
+  {
+  	"platformName": "Android",
+  "platformVersion": "6",
+  "deviceName": "127.0.0.1:7555",
+  "appPackage": "com.tencent.wework",
+  "appActivity": ".launch.WwMainActivity",
+  "port": "4723",
+  "noReset" : true
+
+}

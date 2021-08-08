@@ -1,0 +1,9 @@
+  {
+  	"platformName": "Android",
+  "platformVersion": "6",
+  "deviceName": "127.0.0.1:7555",
+  "appPackage": "com.xueqiu.android",
+  "appActivity": ".view.WelcomeActivityAlias",
+  "port": "4723",
+    "noreset":true
+}
